@@ -131,3 +131,5 @@ Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/Scrap
   Kurze Notizen reichen völlig („Boss 2 war nicht zu schaffen“, „Werkstatt nicht gefunden“).
 
 **Runterladen, ein paar Runden spielen, Bescheid sagen.** Danke fürs Testen!
+
+<!-- Stand: 2026-10-16 -->
