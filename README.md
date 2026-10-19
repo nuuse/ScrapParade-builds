@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="img/gallery/boss.png" alt="Boss fight at night" width="32%">
-  <img src="img/gallery/campfire.png" alt="The squad resting at a campfire" width="32%">
-  <img src="img/gallery/parade.png" alt="The parade ground" width="32%">
+  <img src="img/gallery/aurora_portrait.png" alt="Northern lights over the frozen tundra" width="32%">
+  <img src="img/gallery/boss_warning_portrait.png" alt="A boss winds up its attack, red warning sign" width="32%">
+  <img src="img/gallery/parade_full_portrait.png" alt="The parade ground with a full grandstand" width="32%">
 </p>
 
 > **Scrap Parade is in early development.** These are playtest builds for Windows and Android. Plenty of it is still placeholder, and the numbers move around a lot.
@@ -34,6 +34,37 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 ## Gallery
 
 <p align="center">
+  <img src="img/gallery/sunset.png" alt="Sunset over the dust wastes" width="49%">
+  <img src="img/gallery/aurora.png" alt="Northern lights over the frozen tundra" width="49%">
+</p>
+<p align="center"><i>Sunset over the dust wastes · Northern lights over the tundra</i></p>
+
+<p align="center">
+  <img src="img/gallery/boss_attack.png" alt="The Dune Worm bursts out of the sand" width="49%">
+  <img src="img/gallery/fortress.png" alt="Night fight at the machine fortress" width="49%">
+</p>
+<p align="center"><i>Every boss has its own attack · Night shift at the machine fortress</i></p>
+
+<p align="center">
+  <img src="img/gallery/storm.png" alt="Storm over the scrapyard" width="49%">
+  <img src="img/gallery/parade_full.png" alt="The parade ground with a full grandstand" width="49%">
+</p>
+<p align="center"><i>Storm over the scrapyard · Everyone else watches from the grandstand</i></p>
+
+<p align="center">
+  <img src="img/gallery/sunrise_portrait.png" alt="Sunrise in the desert" width="24%">
+  <img src="img/gallery/storm_portrait.png" alt="Rain storm" width="24%">
+  <img src="img/gallery/fortress_portrait.png" alt="Machine fortress at dusk" width="24%">
+  <img src="img/gallery/weapons_portrait.png" alt="Choosing a weapon for a slot" width="24%">
+</p>
+<p align="center">
+  <img src="img/gallery/sunset_portrait.png" alt="Sunset" width="24%">
+  <img src="img/gallery/forest_portrait.png" alt="Irradiated forest" width="24%">
+  <img src="img/gallery/waves_portrait.png" alt="Enemy waves lined up on the road" width="24%">
+</p>
+<p align="center"><i>Made for your phone: sunrise, storm, fortress, gear, sunset, forest, waves</i></p>
+
+<p align="center">
   <img src="img/gallery/junkyard.png" alt="Junkyard event: searching an old car" width="49%">
   <img src="img/gallery/oasis.png" alt="Oasis event in the desert" width="49%">
 </p>
@@ -44,11 +75,6 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
   <img src="img/gallery/unit_card.png" alt="Connections of a fighter on the parade ground" width="49%">
 </p>
 <p align="center"><i>Sandstorm. The parade doesn't stop for weather. · Connections: neighbours on the parade ground buff each other</i></p>
-
-<p align="center">
-  <img src="img/gallery/fight.png" alt="Fighting in the desert, drones overhead" width="40%">
-</p>
-<p align="center"><i>On the road</i></p>
 
 ## How to play
 
