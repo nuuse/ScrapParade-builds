@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="img/gallery/aurora_portrait.png" alt="Northern lights over the frozen tundra" width="32%">
-  <img src="img/gallery/boss_warning_portrait.png" alt="A boss winds up its attack, red warning sign" width="32%">
-  <img src="img/gallery/parade_full_portrait.png" alt="The parade ground with a full grandstand" width="32%">
+  <img src="img/gallery/store_01_run.png" alt="Build your squad. Watch it fight." width="32%">
+  <img src="img/gallery/store_02_boss.png" alt="Epic boss battles" width="32%">
+  <img src="img/gallery/store_04_squad.png" alt="Unlock unique heroes" width="32%">
 </p>
 
 > **Scrap Parade is in early development.** These are playtest builds for Windows and Android. Plenty of it is still placeholder, and the numbers move around a lot.
@@ -32,6 +32,17 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 <a name="gallery"></a>
 
 ## Gallery
+
+<p align="center">
+  <img src="img/gallery/store_12_arena.png" alt="Test fights in front of the crowd" width="49%">
+  <img src="img/gallery/store_10_storm.png" alt="Boss fights in the storm" width="49%">
+</p>
+
+<p align="center">
+  <img src="img/gallery/aurora_portrait.png" alt="Northern lights over the frozen tundra" width="32%">
+  <img src="img/gallery/boss_warning_portrait.png" alt="A boss winds up its attack, red warning sign" width="32%">
+  <img src="img/gallery/parade_full_portrait.png" alt="The parade ground with a full grandstand" width="32%">
+</p>
 
 <p align="center">
   <img src="img/gallery/sunset.png" alt="Sunset over the dust wastes" width="49%">
