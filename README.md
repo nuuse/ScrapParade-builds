@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="img/gallery/store_01_run.png" alt="Build your squad. Watch it fight." width="32%">
-  <img src="img/gallery/store_02_boss.png" alt="Epic boss battles" width="32%">
-  <img src="img/gallery/store_04_squad.png" alt="Unlock unique heroes" width="32%">
+  <img src="img/gallery/p_02_meadow.png" alt="Build your squad. Watch it fight." width="32%">
+  <img src="img/gallery/p_01_boss.png" alt="Epic boss battles" width="32%">
+  <img src="img/gallery/p_06_parade.png" alt="Plan the perfect formation" width="32%">
 </p>
 
 > **Scrap Parade is in early development.** These are playtest builds for Windows and Android. Plenty of it is still placeholder, and the numbers move around a lot.
@@ -22,10 +22,10 @@
 
 A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who stands where. Then the parade marches off on its own, fights whatever steps onto the road and drags the scrap home. Check in for a minute to collect, upgrade and shuffle the lineup, or stick around and go for the next boss.
 
-- **The lineup decides.** Tanks, melee, ranged and support, each with their own gear and skill. On the parade ground it matters who stands next to whom: neighbours buff each other. Save your favourite lineups and swap them in a tap.
+- **The lineup decides.** Tanks, melee, ranged and support, each with their own gear and skill. Your squad grows from 2 up to 10 fighters. On the parade ground it matters who stands next to whom: neighbours buff each other. Save your favourite lineups and swap them in a tap.
 - **Auto-battle, but you get a say.** Fire skills yourself at the right moment, or leave it to the squad.
 - **Always something to upgrade.** Loot in several rarities, recruiting, research, a workshop, and drones that join the fight.
-- **The wasteland doesn't sit still.** Five biomes, day and night, storms and sandstorms, forks in the road. Sometimes an oasis. Sometimes a junkyard full of wrecks.
+- **The wasteland doesn't sit still.** Eight biomes with many variants, day and night, storms and sandstorms, forks in the road. Sometimes an oasis. Sometimes a junkyard full of wrecks.
 - **Not alone out there.** Arena duels against other players' squads, rankings and clans.
 - **Idle means idle.** The squad keeps walking while you're away.
 
@@ -34,58 +34,50 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 ## Gallery
 
 <p align="center">
-  <img src="img/gallery/store_12_arena.png" alt="Test fights in front of the crowd" width="49%">
-  <img src="img/gallery/store_10_storm.png" alt="Boss fights in the storm" width="49%">
+  <img src="img/gallery/p_03_sail.png" alt="Set sail for new shores" width="24%">
+  <img src="img/gallery/p_04_map.png" alt="Explore a big world map" width="24%">
+  <img src="img/gallery/p_05_camp.png" alt="Trade at camps along the way" width="24%">
+  <img src="img/gallery/p_07_canyon.png" alt="Travel through wild lands" width="24%">
 </p>
+<p align="center">
+  <img src="img/gallery/p_08_mushroom.png" alt="Night battles in glowing forests" width="24%">
+  <img src="img/gallery/p_09_birch.png" alt="Keeps growing while you're away" width="24%">
+  <img src="img/gallery/p_10_rain.png" alt="Rain, storms, day and night" width="24%">
+  <img src="img/gallery/p_11_frozen_lake.png" alt="Northern lights over frozen lakes" width="24%">
+</p>
+<p align="center"><i>Made for your phone</i></p>
 
 <p align="center">
-  <img src="img/gallery/aurora_portrait.png" alt="Northern lights over the frozen tundra" width="32%">
-  <img src="img/gallery/boss_warning_portrait.png" alt="A boss winds up its attack, red warning sign" width="32%">
-  <img src="img/gallery/parade_full_portrait.png" alt="The parade ground with a full grandstand" width="32%">
+  <img src="img/gallery/w_01_boss.png" alt="The Warlord boss on the dust road" width="49%">
+  <img src="img/gallery/w_03_sail.png" alt="The squad sails between regions" width="49%">
 </p>
+<p align="center"><i>Every boss has its own attack · Ferry rides between the regions</i></p>
 
 <p align="center">
-  <img src="img/gallery/sunset.png" alt="Sunset over the dust wastes" width="49%">
-  <img src="img/gallery/aurora.png" alt="Northern lights over the frozen tundra" width="49%">
+  <img src="img/gallery/w_04_map.png" alt="World map at Rustcape Camp" width="49%">
+  <img src="img/gallery/w_05_camp.png" alt="Rustcape Camp in the evening" width="49%">
 </p>
-<p align="center"><i>Sunset over the dust wastes · Northern lights over the tundra</i></p>
+<p align="center"><i>Pick your route on the world map · Trade at camps along the way</i></p>
 
 <p align="center">
-  <img src="img/gallery/boss_attack.png" alt="The Dune Worm bursts out of the sand" width="49%">
-  <img src="img/gallery/fortress.png" alt="Night fight at the machine fortress" width="49%">
+  <img src="img/gallery/w_06_parade.png" alt="The parade ground in the moon hall" width="49%">
+  <img src="img/gallery/w_07_event.png" alt="Picking a card in an event run" width="49%">
 </p>
-<p align="center"><i>Every boss has its own attack · Night shift at the machine fortress</i></p>
+<p align="center"><i>Parade ground: neighbours buff each other · Event runs: a new card every stage</i></p>
 
 <p align="center">
-  <img src="img/gallery/storm.png" alt="Storm over the scrapyard" width="49%">
-  <img src="img/gallery/parade_full.png" alt="The parade ground with a full grandstand" width="49%">
-</p>
-<p align="center"><i>Storm over the scrapyard · Everyone else watches from the grandstand</i></p>
-
-<p align="center">
-  <img src="img/gallery/sunrise_portrait.png" alt="Sunrise in the desert" width="24%">
-  <img src="img/gallery/storm_portrait.png" alt="Rain storm" width="24%">
-  <img src="img/gallery/fortress_portrait.png" alt="Machine fortress at dusk" width="24%">
-  <img src="img/gallery/weapons_portrait.png" alt="Choosing a weapon for a slot" width="24%">
+  <img src="img/gallery/w_02_meadow.png" alt="Flower meadow by day" width="49%">
+  <img src="img/gallery/w_08_canyon.png" alt="Canyon at dusk" width="49%">
 </p>
 <p align="center">
-  <img src="img/gallery/sunset_portrait.png" alt="Sunset" width="24%">
-  <img src="img/gallery/forest_portrait.png" alt="Irradiated forest" width="24%">
-  <img src="img/gallery/waves_portrait.png" alt="Enemy waves lined up on the road" width="24%">
+  <img src="img/gallery/w_09_mushroom.png" alt="Mushroom forest at night" width="49%">
+  <img src="img/gallery/w_10_birch.png" alt="Birch grove in the morning" width="49%">
 </p>
-<p align="center"><i>Made for your phone: sunrise, storm, fortress, gear, sunset, forest, waves</i></p>
-
 <p align="center">
-  <img src="img/gallery/junkyard.png" alt="Junkyard event: searching an old car" width="49%">
-  <img src="img/gallery/oasis.png" alt="Oasis event in the desert" width="49%">
+  <img src="img/gallery/w_11_rain.png" alt="Rain over the pasture" width="49%">
+  <img src="img/gallery/w_12_frozen_lake.png" alt="Northern lights over a frozen lake" width="49%">
 </p>
-<p align="center"><i>Junkyard: strip a wreck · A rare oasis</i></p>
-
-<p align="center">
-  <img src="img/gallery/sandstorm.png" alt="Marching through a sandstorm" width="49%">
-  <img src="img/gallery/unit_card.png" alt="Connections of a fighter on the parade ground" width="49%">
-</p>
-<p align="center"><i>Sandstorm. The parade doesn't stop for weather. · Connections: neighbours on the parade ground buff each other</i></p>
+<p align="center"><i>Many biomes with day and night, rain and storms</i></p>
 
 ## How to play
 
@@ -104,11 +96,7 @@ Online features (cloud save, chat, arena, clans) need a sign-in. Playtest builds
 
 ## What's new
 
-The latest playtest (9 October) is a **fresh start**. All accounts were reset, and every fighter starts at 2 stars.
-
-- New balancing for upgrades, enemies, recruiting and research (now with 2 research slots).
-- New: forks in the road and the boss wall. Detours are rarer.
-- Biome events like the oasis or the junkyard now give rewards.
+Each version's changes are listed with its release. The playtest gets regular updates, and your progress stays.
 
 Every version with its notes: **[all releases](https://github.com/nuuse/ScrapParade-builds/releases)**.
 
@@ -153,11 +141,7 @@ Online-Funktionen (Cloud-Spielstand, Chat, Arena, Clans) brauchen eine Anmeldung
 
 ### Was ist neu
 
-Der aktuelle Playtest (9. Oktober) ist ein **Neustart**. Alle Konten wurden zurückgesetzt, alle Figuren fangen bei 2 Sternen an.
-
-- Neues Balancing für Upgrades, Gegner, Rekrutieren und Forschung (jetzt mit 2 Forschungsplätzen).
-- Neu: Gabelungen und die Boss-Wand. Umwege gibt es seltener.
-- Biom-Events wie Oase oder Autofriedhof bringen jetzt Belohnungen.
+Neue Versionen und ihre Änderungen stehen jeweils bei den Releases. Der Playtest bekommt regelmäßig Updates, Spielstände bleiben erhalten.
 
 Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/ScrapParade-builds/releases)**.
 
@@ -169,4 +153,4 @@ Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/Scrap
 
 **Runterladen, ein paar Runden spielen, Bescheid sagen.** Danke fürs Testen!
 
-<!-- Stand: 2026-10-16 -->
+<!-- Stand: 2026-11-07 -->
