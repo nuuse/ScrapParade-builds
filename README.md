@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" alt="Scrap Parade – squad auto-battler" width="100%">
+  <img src="img/banner_2211.png" alt="Scrap Parade – squad auto-battler" width="100%">
 </p>
 
 <p align="center">
