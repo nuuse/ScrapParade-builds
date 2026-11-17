@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="img/gallery/p_02_meadow.png" alt="Build your squad. Watch it fight." width="32%">
-  <img src="img/gallery/p_01_boss.png" alt="Epic boss battles" width="32%">
-  <img src="img/gallery/p_06_parade.png" alt="Plan the perfect formation" width="32%">
+  <img src="img/gallery/s_01_run.png" alt="Build your squad. Watch it fight." width="32%">
+  <img src="img/gallery/s_04_raft.png" alt="Raft down the river" width="32%">
+  <img src="img/gallery/s_06_boss.png" alt="Epic boss battles" width="32%">
 </p>
 
 > **Scrap Parade is in early development.** These are playtest builds for Windows and Android. Plenty of it is still placeholder, and the numbers move around a lot.
@@ -36,22 +36,35 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 ## Gallery
 
 <p align="center">
-  <img src="img/gallery/p_03_sail.png" alt="Set sail for new shores" width="24%">
-  <img src="img/gallery/p_04_map.png" alt="Explore a big world map" width="24%">
-  <img src="img/gallery/p_05_camp.png" alt="Trade at camps along the way" width="24%">
-  <img src="img/gallery/p_07_canyon.png" alt="Travel through wild lands" width="24%">
+  <img src="img/gallery/s_01_run.png" alt="Build your squad. Watch it fight." width="24%">
+  <img src="img/gallery/s_02_map.png" alt="Explore the world map" width="24%">
+  <img src="img/gallery/s_03_contract.png" alt="Take on contracts" width="24%">
+  <img src="img/gallery/s_04_raft.png" alt="Raft down the river" width="24%">
 </p>
 <p align="center">
-  <img src="img/gallery/p_08_mushroom.png" alt="Night battles in glowing forests" width="24%">
-  <img src="img/gallery/p_09_birch.png" alt="Keeps growing while you're away" width="24%">
-  <img src="img/gallery/p_10_rain.png" alt="Rain, storms, day and night" width="24%">
-  <img src="img/gallery/p_11_frozen_lake.png" alt="Northern lights over frozen lakes" width="24%">
-</p>
-<p align="center">
-  <img src="img/gallery/p_12_raft.png" alt="Raft down the river" width="32%">
-  <img src="img/gallery/p_13_contract.png" alt="Take on contracts" width="32%">
+  <img src="img/gallery/s_05_parade.png" alt="Plan the perfect formation" width="24%">
+  <img src="img/gallery/s_06_boss.png" alt="Epic boss battles" width="24%">
+  <img src="img/gallery/s_07_squad.png" alt="Unlock unique heroes" width="24%">
+  <img src="img/gallery/s_08_lands.png" alt="Travel through wild lands" width="24%">
 </p>
 <p align="center"><i>Made for your phone</i></p>
+
+<p align="center">
+  <img src="img/gallery/t_01_map.png" alt="Explore the world map" width="49%">
+  <img src="img/gallery/t_02_contract.png" alt="Take on contracts" width="49%">
+</p>
+<p align="center">
+  <img src="img/gallery/t_03_raft.png" alt="Raft down the river" width="49%">
+  <img src="img/gallery/t_04_parade.png" alt="Plan the perfect formation" width="49%">
+</p>
+<p align="center">
+  <img src="img/gallery/t_05_sunset.png" alt="Hit the road at sunset" width="49%">
+  <img src="img/gallery/t_06_storm.png" alt="Boss fights in the storm" width="49%">
+</p>
+<p align="center">
+  <img src="img/gallery/t_07_night.png" alt="Night battles in the woods" width="49%">
+</p>
+<p align="center"><i>Also on tablets</i></p>
 
 <p align="center">
   <img src="img/gallery/w_01_boss.png" alt="The Warlord boss on the dust road" width="49%">
@@ -159,4 +172,4 @@ Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/Scrap
 
 **Runterladen, ein paar Runden spielen, Bescheid sagen.** Danke fürs Testen!
 
-<!-- Stand: 2026-11-17 -->
+<!-- Stand: 2026-11-17 (Galerie: Store-Bilder sp2211) -->
