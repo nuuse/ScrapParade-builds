@@ -26,6 +26,8 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 - **Auto-battle, but you get a say.** Fire skills yourself at the right moment, or leave it to the squad.
 - **Always something to upgrade.** Loot in several rarities, recruiting, research, a workshop, and drones that join the fight.
 - **The wasteland doesn't sit still.** Eight biomes with many variants, day and night, storms and sandstorms, forks in the road. Sometimes an oasis. Sometimes a junkyard full of wrecks.
+- **Pick your path.** Plan your route on the world map and decide where to turn at forks. Build rafts to drift down rivers and get off on either bank, or take a ferry across the sea.
+- **Gear for the job.** Clients in towns and camps hire you to fetch items, deliver goods, escort people or follow tracks. You'll need the right equipment to get past spore fog, swamps, cliffs or heavy steel gates.
 - **Not alone out there.** Arena duels against other players' squads, rankings and clans.
 - **Idle means idle.** The squad keeps walking while you're away.
 
@@ -44,6 +46,10 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
   <img src="img/gallery/p_09_birch.png" alt="Keeps growing while you're away" width="24%">
   <img src="img/gallery/p_10_rain.png" alt="Rain, storms, day and night" width="24%">
   <img src="img/gallery/p_11_frozen_lake.png" alt="Northern lights over frozen lakes" width="24%">
+</p>
+<p align="center">
+  <img src="img/gallery/p_12_raft.png" alt="Raft down the river" width="32%">
+  <img src="img/gallery/p_13_contract.png" alt="Take on contracts" width="32%">
 </p>
 <p align="center"><i>Made for your phone</i></p>
 
@@ -122,7 +128,7 @@ The game isn't finished. That's the point of testing it, and why your notes help
 
 **Du stellst auf. Dein Squad kämpft.**
 
-Scrap Parade ist ein **Squad-Auto-Battler** nach dem Weltuntergang. Du wählst deine Kämpfer und legst fest, wer wo steht. Dann zieht die Parade von selbst los, legt sich mit allem an, was auf der Straße steht, und schleppt den Schrott heim. Kurz reinschauen, einsammeln, aufrüsten, die Aufstellung umbauen. Oder dabeibleiben und den nächsten Boss knacken. Bilder gibt es in der [Galerie](#gallery).
+Scrap Parade ist ein **Squad-Auto-Battler** nach dem Weltuntergang. Du wählst deine Kämpfer und legst fest, wer wo steht. Dann zieht die Parade von selbst los, legt sich mit allem an, was auf der Straße steht, und schleppt den Schrott heim. Kurz reinschauen, einsammeln, aufrüsten, die Aufstellung umbauen. Oder dabeibleiben und den nächsten Boss knacken. Unterwegs planst du die Route auf der Weltkarte, fährst mit dem Floß Flüsse hinab und nimmst Aufträge von Leuten in Städten und Lagern an. Bilder gibt es in der [Galerie](#gallery).
 
 ### So spielst du
 
@@ -153,4 +159,4 @@ Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/Scrap
 
 **Runterladen, ein paar Runden spielen, Bescheid sagen.** Danke fürs Testen!
 
-<!-- Stand: 2026-11-07 -->
+<!-- Stand: 2026-11-17 -->
