@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="img/banner_2211.png" alt="Scrap Parade – squad auto-battler" width="100%">
+  <img src="img/banner.png" alt="Scrap Parade – squad auto-battler" width="100%">
 </p>
 
 <p align="center">
   <b>You set the lineup. Your squad does the fighting.</b><br>
-  <a href="https://github.com/nuuse/ScrapParade-builds/releases/latest"><b>⬇ Download the latest playtest</b></a>
+  <a href="https://play.google.com/store/apps/details?id=game.scrapparade.app"><b>▶ Get it on Google Play</b></a>
+  &nbsp;·&nbsp; <a href="https://github.com/nuuse/ScrapParade-builds/releases/latest"><b>⬇ Windows download</b></a>
   &nbsp;·&nbsp; <a href="#gallery">Gallery</a>
   &nbsp;·&nbsp; <a href="#feedback">Feedback</a>
   &nbsp;·&nbsp; <a href="#deutsch">Deutsch</a>
 </p>
 
 <p align="center">
-  <img src="img/gallery/s_01_run.png" alt="Build your squad. Watch it fight." width="32%">
-  <img src="img/gallery/s_04_raft.png" alt="Raft down the river" width="32%">
-  <img src="img/gallery/s_06_boss.png" alt="Epic boss battles" width="32%">
+  <img src="img/gallery/p_02_meadow.png" alt="Build your squad. Watch it fight." width="32%">
+  <img src="img/gallery/p_01_boss.png" alt="Epic boss battles" width="32%">
+  <img src="img/gallery/p_06_parade.png" alt="Plan the perfect formation" width="32%">
 </p>
 
-> **Scrap Parade is in early development.** These are playtest builds for Windows and Android. Plenty of it is still placeholder, and the numbers move around a lot.
+> **Scrap Parade is out on [Google Play](https://play.google.com/store/apps/details?id=game.scrapparade.app)!** On Android, get it there. This page keeps the Windows version, which plays on the same servers as Google Play. The game is still growing, so expect regular updates.
 
 ## The parade marches on
 
@@ -26,8 +27,6 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 - **Auto-battle, but you get a say.** Fire skills yourself at the right moment, or leave it to the squad.
 - **Always something to upgrade.** Loot in several rarities, recruiting, research, a workshop, and drones that join the fight.
 - **The wasteland doesn't sit still.** Eight biomes with many variants, day and night, storms and sandstorms, forks in the road. Sometimes an oasis. Sometimes a junkyard full of wrecks.
-- **Pick your path.** Plan your route on the world map and decide where to turn at forks. Build rafts to drift down rivers and get off on either bank, or take a ferry across the sea.
-- **Gear for the job.** Clients in towns and camps hire you to fetch items, deliver goods, escort people or follow tracks. You'll need the right equipment to get past spore fog, swamps, cliffs or heavy steel gates.
 - **Not alone out there.** Arena duels against other players' squads, rankings and clans.
 - **Idle means idle.** The squad keeps walking while you're away.
 
@@ -36,35 +35,18 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 ## Gallery
 
 <p align="center">
-  <img src="img/gallery/s_01_run.png" alt="Build your squad. Watch it fight." width="24%">
-  <img src="img/gallery/s_02_map.png" alt="Explore the world map" width="24%">
-  <img src="img/gallery/s_03_contract.png" alt="Take on contracts" width="24%">
-  <img src="img/gallery/s_04_raft.png" alt="Raft down the river" width="24%">
+  <img src="img/gallery/p_03_sail.png" alt="Set sail for new shores" width="24%">
+  <img src="img/gallery/p_04_map.png" alt="Explore a big world map" width="24%">
+  <img src="img/gallery/p_05_camp.png" alt="Trade at camps along the way" width="24%">
+  <img src="img/gallery/p_07_canyon.png" alt="Travel through wild lands" width="24%">
 </p>
 <p align="center">
-  <img src="img/gallery/s_05_parade.png" alt="Plan the perfect formation" width="24%">
-  <img src="img/gallery/s_06_boss.png" alt="Epic boss battles" width="24%">
-  <img src="img/gallery/s_07_squad.png" alt="Unlock unique heroes" width="24%">
-  <img src="img/gallery/s_08_lands.png" alt="Travel through wild lands" width="24%">
+  <img src="img/gallery/p_08_mushroom.png" alt="Night battles in glowing forests" width="24%">
+  <img src="img/gallery/p_09_birch.png" alt="Keeps growing while you're away" width="24%">
+  <img src="img/gallery/p_10_rain.png" alt="Rain, storms, day and night" width="24%">
+  <img src="img/gallery/p_11_frozen_lake.png" alt="Northern lights over frozen lakes" width="24%">
 </p>
 <p align="center"><i>Made for your phone</i></p>
-
-<p align="center">
-  <img src="img/gallery/t_01_map.png" alt="Explore the world map" width="49%">
-  <img src="img/gallery/t_02_contract.png" alt="Take on contracts" width="49%">
-</p>
-<p align="center">
-  <img src="img/gallery/t_03_raft.png" alt="Raft down the river" width="49%">
-  <img src="img/gallery/t_04_parade.png" alt="Plan the perfect formation" width="49%">
-</p>
-<p align="center">
-  <img src="img/gallery/t_05_sunset.png" alt="Hit the road at sunset" width="49%">
-  <img src="img/gallery/t_06_storm.png" alt="Boss fights in the storm" width="49%">
-</p>
-<p align="center">
-  <img src="img/gallery/t_07_night.png" alt="Night battles in the woods" width="49%">
-</p>
-<p align="center"><i>Also on tablets</i></p>
 
 <p align="center">
   <img src="img/gallery/w_01_boss.png" alt="The Warlord boss on the dust road" width="49%">
@@ -100,22 +82,21 @@ A post-apocalyptic **squad auto-battler**. You pick your fighters and decide who
 
 ## How to play
 
-Grab the newest version from the **[Releases page](https://github.com/nuuse/ScrapParade-builds/releases/latest)**.
+**Android** (7.1 or newer, 64 bit): **[Scrap Parade on Google Play](https://play.google.com/store/apps/details?id=game.scrapparade.app)**.
+An old playtest APK keeps working with your playtest progress, but it gets no more updates.
 
-**Windows** (64 bit, Windows 10 or 11)
+**Windows** (64 bit, Windows 10 or 11): grab the newest version from the **[Releases page](https://github.com/nuuse/ScrapParade-builds/releases/latest)**.
 1. Download `ScrapParade-<version>.zip` and unpack it into a folder of its own.
 2. Run `ScrapParade.exe`. Windows may warn you because the file isn't signed: click *More info*, then *Run anyway*.
 3. Done. When a new version is out, the game asks at start, updates itself and restarts. Your progress stays.
 
-**Android** (7.1 or newer, 64 bit)
-1. Download `ScrapParade-<version>.apk` on your phone and open it. If asked, allow your browser to install apps.
-2. Updates are manual: the game shows you a link to the new APK. Install it over the old one.
+Since the launch on 22 November 2026, the Windows version plays on the same servers as Google Play and started fresh there.
 
-Online features (cloud save, chat, arena, clans) need a sign-in. Playtest builds send anonymous usage data and error reports; details in the [privacy policy](https://nuuse.github.io/idlerunner-legal/privacy.html).
+Online features (cloud save, chat, arena, clans) need a sign-in. Details in the [privacy policy](https://nuuse.github.io/scrapparade-legal/privacy.html).
 
 ## What's new
 
-Each version's changes are listed with its release. The playtest gets regular updates, and your progress stays.
+Each version's changes are listed with its release. The Windows version gets regular updates, and your progress stays.
 
 Every version with its notes: **[all releases](https://github.com/nuuse/ScrapParade-builds/releases)**.
 
@@ -131,7 +112,7 @@ The game isn't finished. That's the point of testing it, and why your notes help
 
 **Download, play a few runs, tell us what you think.** Thanks for testing!
 
-<p align="center"><a href="https://github.com/nuuse/ScrapParade-builds/releases/latest"><b>⬇ Download the latest playtest</b></a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=game.scrapparade.app"><b>▶ Get it on Google Play</b></a> &nbsp;·&nbsp; <a href="https://github.com/nuuse/ScrapParade-builds/releases/latest"><b>⬇ Windows download</b></a></p>
 
 ---
 
@@ -141,26 +122,27 @@ The game isn't finished. That's the point of testing it, and why your notes help
 
 **Du stellst auf. Dein Squad kämpft.**
 
-Scrap Parade ist ein **Squad-Auto-Battler** nach dem Weltuntergang. Du wählst deine Kämpfer und legst fest, wer wo steht. Dann zieht die Parade von selbst los, legt sich mit allem an, was auf der Straße steht, und schleppt den Schrott heim. Kurz reinschauen, einsammeln, aufrüsten, die Aufstellung umbauen. Oder dabeibleiben und den nächsten Boss knacken. Unterwegs planst du die Route auf der Weltkarte, fährst mit dem Floß Flüsse hinab und nimmst Aufträge von Leuten in Städten und Lagern an. Bilder gibt es in der [Galerie](#gallery).
+Scrap Parade ist ein **Squad-Auto-Battler** nach dem Weltuntergang. Du wählst deine Kämpfer und legst fest, wer wo steht. Dann zieht die Parade von selbst los, legt sich mit allem an, was auf der Straße steht, und schleppt den Schrott heim. Kurz reinschauen, einsammeln, aufrüsten, die Aufstellung umbauen. Oder dabeibleiben und den nächsten Boss knacken. Bilder gibt es in der [Galerie](#gallery).
 
 ### So spielst du
 
-Die neueste Version liegt auf der **[Releases-Seite](https://github.com/nuuse/ScrapParade-builds/releases/latest)**.
+Scrap Parade ist **[im Google Play Store](https://play.google.com/store/apps/details?id=game.scrapparade.app)** erschienen.
 
-**Windows** (64 Bit, Windows 10 oder 11)
+**Android** (ab 7.1, 64 Bit): **[Scrap Parade bei Google Play](https://play.google.com/store/apps/details?id=game.scrapparade.app)**.
+Eine alte Playtest-APK läuft mit deinem Playtest-Spielstand weiter, bekommt aber keine Updates mehr.
+
+**Windows** (64 Bit, Windows 10 oder 11): die neueste Version liegt auf der **[Releases-Seite](https://github.com/nuuse/ScrapParade-builds/releases/latest)**.
 1. `ScrapParade-<Version>.zip` herunterladen und in einen eigenen Ordner entpacken.
 2. `ScrapParade.exe` starten. Windows warnt eventuell, weil die Datei nicht signiert ist: *Weitere Informationen*, dann *Trotzdem ausführen*.
 3. Fertig. Gibt es eine neue Version, fragt das Spiel beim Start, aktualisiert sich selbst und startet neu. Dein Spielstand bleibt erhalten.
 
-**Android** (ab 7.1, 64 Bit)
-1. `ScrapParade-<Version>.apk` auf dem Handy herunterladen und öffnen. Falls gefragt: dem Browser erlauben, Apps zu installieren.
-2. Updates gehen hier von Hand: Das Spiel zeigt dir einen Link zur neuen APK, die du einfach über die alte installierst.
+Seit dem Start am 22. November 2026 spielt die Windows-Version auf denselben Servern wie Google Play und hat dort neu angefangen.
 
-Online-Funktionen (Cloud-Spielstand, Chat, Arena, Clans) brauchen eine Anmeldung. Playtest-Versionen senden anonyme Nutzungsdaten und Fehlerberichte; Details in der [Datenschutzerklärung](https://nuuse.github.io/idlerunner-legal/privacy.html).
+Online-Funktionen (Cloud-Spielstand, Chat, Arena, Clans) brauchen eine Anmeldung. Details in der [Datenschutzerklärung](https://nuuse.github.io/scrapparade-legal/privacy.html).
 
 ### Was ist neu
 
-Neue Versionen und ihre Änderungen stehen jeweils bei den Releases. Der Playtest bekommt regelmäßig Updates, Spielstände bleiben erhalten.
+Neue Versionen und ihre Änderungen stehen jeweils bei den Releases. Die Windows-Version bekommt regelmäßig Updates, Spielstände bleiben erhalten.
 
 Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/ScrapParade-builds/releases)**.
 
@@ -172,4 +154,4 @@ Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/Scrap
 
 **Runterladen, ein paar Runden spielen, Bescheid sagen.** Danke fürs Testen!
 
-<!-- Stand: 2026-11-17 (Galerie: Store-Bilder sp2211) -->
+<!-- Stand: 2026-11-22 (Store-Release; Vorlage im Hauptrepo docs/playtest-page/README_STORE.md) -->
